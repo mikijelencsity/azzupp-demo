@@ -1,4 +1,4 @@
-:HL["/azzupp-demo/_next/static/chunks/0yyxdg7-393eh.css","style"]
+:HL["/azzupp-demo/_next/static/chunks/074y_e6nmo9zx.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"lvb7XoBCkexvJ5LBPoAmD","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"URQxAjIKK7yJYjC5o5G-x","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
