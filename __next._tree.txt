@@ -9,4 +9,4 @@
 :HL["/azzupp-demo/_next/static/media/fbb7028efdf70529-s.p.1_0gbi-gsbqmd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/azzupp-demo/_next/static/chunks/3rgkitite14_2.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"nExmG94sT21E8R0EkUraM","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"uUZzNZJmQbIemBx92qFN8","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
