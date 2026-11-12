@@ -7,6 +7,6 @@
 :HL["/azzupp-demo/_next/static/media/e63b65bb308a9351-s.p.3j3877k49yy0l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/azzupp-demo/_next/static/media/f7095de3000afb68-s.p.2ytmazkdrg7t9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/azzupp-demo/_next/static/media/fbb7028efdf70529-s.p.1_0gbi-gsbqmd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/azzupp-demo/_next/static/chunks/2uk0h7z_p69-s.css","style"]
+:HL["/azzupp-demo/_next/static/chunks/2pe_acfafmjgf.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"TdffDCpTUGCNuy7mKQDUb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"EWrjoBIpUme2DbwMHjLhA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
