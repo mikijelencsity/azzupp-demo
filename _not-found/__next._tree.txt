@@ -1,4 +1,4 @@
 :HL["/azzupp-demo/_next/static/chunks/0xmw1njtonuq2.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"EWrjoBIpUme2DbwMHjLhA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"1UkEHCcJev88xwIYA5z1B","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
